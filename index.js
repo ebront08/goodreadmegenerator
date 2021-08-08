@@ -6,53 +6,53 @@ const fs = require("fs");
 const questions = [
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "title",
+    message: "What did you title your project?",
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "description",
+    message: "Describe your project.",
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "tableOfContents",
+    message: "For the table of contents, press ENTER.",
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "installation",
+    message: "What type of dependencies are installed?" 
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "usage",
+    message: "What steps or procedures would be required?"
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "license",
+    message: "What licensing process would be needed for your project?"
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "contributions",
+    message: "Who were the contributors to your project?",
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "test",
+    message: "How did you confirm the validity of your project?",
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "github",
+    message: "What is your GitHub username?",
   },
   {
     type: "input",
-    name: "",
-    message: "",
+    name: "email",
+    message: "What is your email address?",
   },
 ];
 
