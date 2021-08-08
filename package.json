@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "goodreadmegenerator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebront08/goodreadmegenerator.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebront08/goodreadmegenerator/issues"
+  },
+  "homepage": "https://github.com/ebront08/goodreadmegenerator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.1.2"
   }
 }
