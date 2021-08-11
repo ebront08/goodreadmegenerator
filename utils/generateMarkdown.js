@@ -32,7 +32,7 @@ ${data.description}
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
+${renderLicenseTOC(data)}
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -42,7 +42,7 @@ The following necessary dependencies must be installed to run the application pr
 In order to use this app, ${data.usage}
 # License
 This project is licensed under the ${data.license} license. 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+${renderLicenseBadge(data)}
 # Contributions
 ​Contributors: ${data.contributions}
 # Tests
@@ -52,4 +52,4 @@ If you have any questions about the repository contact ${data.contributions} dir
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = {generateMarkdown, renderLicenseBadge};

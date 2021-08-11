@@ -1,7 +1,7 @@
-# goodreadmegenerator
-  https://github.com/ebront08/goodreadmegenerator
+# a
+  https://github.com/a/a
 # Description
-This application uses Node.js to create a readme file based on the answers to the questions. 
+a
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,15 +10,15 @@ This application uses Node.js to create a readme file based on the answers to th
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-The following necessary dependencies must be installed to run the application properly: Inquirer
+The following necessary dependencies must be installed to run the application properly: a
 # Usage
-In order to use this app, Start by running node ./index.js in your terminal. Then follow the prompts.
+In order to use this app, a
 # License
-This project is licensed under the MIT license. 
+This project is licensed under the a license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 # Contributions
-​Contributors: Tristan Ebron
+​Contributors: a
 # Tests
-The following is needed to run tests: Node.js
+The following is needed to run tests: a
 # Questions
-If you have any questions about the repository contact Tristan Ebron directly at : ebront08@gmail.com.
+If you have any questions about the repository contact a directly at : a.
