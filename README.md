@@ -1,5 +1,6 @@
 # goodreadmegenerator
   https://github.com/ebront08/goodreadmegenerator
+  Video description/Walkthrough video: https://drive.google.com/file/d/1IiCXwZVEUC4kSaqIg_7iy6RrB3JRHRbN/view?usp=sharing
 # Description
 This application is designed to use Node.js to create a README.md file. When you type node ./index.js it will ask you a prompt of questions and all you have to do is follow the questions and the readme.md will be created. 
 # Table of Contents 
